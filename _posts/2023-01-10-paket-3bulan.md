@@ -6,8 +6,8 @@ price: "199.000"
 price_promo: "149.000"
 date: 2023-01-10 08:00:00 +07:00
 tags: ["starter"]
-thumbnail: /products/rossie-pink.jpeg
-products: [""]
+thumbnail: /products/Paket-webstore.jpg
+products: ["/products/Paket-webstore.jpg"]
 ---
 
 ## Starter Paket 3 Bulan
