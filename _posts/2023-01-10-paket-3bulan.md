@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Starter Paket 3 Bulan
-description: Starter Paket 3 Bulan - Orderio.id
+title: Paket Starter 3 Bulan
+description: Paket Starter 3 Bulan - Orderio.id
 price: "199.000"
 price_promo: "149.000"
 date: 2023-01-10 08:00:00 +07:00
@@ -10,7 +10,7 @@ thumbnail: /products/Paket-webstore.jpg
 products: ["/products/Paket-webstore.jpg"]
 ---
 
-## Starter Paket 3 Bulan
+## Paket Starter 3 Bulan
 
 Starter (Paket 3 Bulan)
 
@@ -49,7 +49,7 @@ Kalo kamu udah **jenuh** dengan **permasalahan di atas** dan pengen mencari jala
 
 **Note:**
 
-* *Subdomain Starter: tokokamu.orderio.id
+* *Subdomain Starter: **tokokamu**.orderio.id
 * **Pendaftaran pertama otomatis di Paket 3 Bulan, di bulan ke-4 dst diperbolehkan berlangganan bulanan, perpanjang Paket 3 Bulan atau langsung berlangganan setahun.
 * Bonus: Free +10 upload produk.
 * **Add-on Starter**: Jumlah upload produk: + Rp 10.000/setiap kelipatan 10 produk
