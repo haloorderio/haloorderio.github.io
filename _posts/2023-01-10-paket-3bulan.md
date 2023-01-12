@@ -55,7 +55,7 @@ Kalo kamu udah **jenuh** dengan **permasalahan di atas** dan pengen mencari jala
 * **Add-on Starter**: Jumlah upload produk: + Rp 10.000/setiap kelipatan 10 produk
 * Dapatkan **diskon Rp 50.000 (Dari Rp  ̶1̶9̶9̶.̶0̶0̶0̶  menjadi Rp. 149.000)** untuk pendaftaran hari ini!
 
-<center><a href="https://tribelio.page/site/checkout/3bulanorderio" target="_blank"><b>Mulai Paket Starter 3 Bulan</b></a></center>
+<center><a href="https://tribelio.page/site/checkout/3bulanorderio" target="_blank"><b>🔥Mulai Paket Starter 3 Bulan🔥</b></a></center>
 
 ## Keuntungan memakai Jasa Orderio.id:
 
@@ -70,4 +70,4 @@ Kalo kamu udah **jenuh** dengan **permasalahan di atas** dan pengen mencari jala
   <li><a href="https://ilovekayu.com/" target="_blank">ilovekayu.com</a></li>
 </ul>
 
-<center><a href="https://tribelio.page/site/checkout/3bulanorderio" target="_blank"><b>Mulai Paket Starter 3 Bulan</b></a></center>
+<center><a href="https://tribelio.page/site/checkout/3bulanorderio" target="_blank"><b>🔥Mulai Paket Starter 3 Bulan🔥</b></a></center>
