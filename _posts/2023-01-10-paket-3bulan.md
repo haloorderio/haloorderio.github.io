@@ -77,8 +77,8 @@ Kalo kamu udah **jenuh** dengan **permasalahan di atas** dan pengen mencari jala
 <ul>
   <li><a href="https://mukenalarizka.com/" target="_blank">mukenalarizka.com</a></li>
   <li><a href="https://ilovekayu.com/" target="_blank">ilovekayu.com</a></li>
-  <li><a href="https://hakim.orderio.id/" target="_blank"></a>hakim.orderio.id</li>
-  <li><a href="https://sambalgamiuno.orderio.id/" target="_blank"></a>sambalgamiuno.orderio.id</li>
+  <li><a href="https://hakim.orderio.id/" target="_blank">hakim.orderio.id</a></li>
+  <li><a href="https://sambalgamiuno.orderio.id/" target="_blank">sambalgamiuno.orderio.id</a></li>
 </ul>
 
 <center><a href="https://tribelio.page/site/checkout/3bulanorderio" target="_blank"><b>🔥Mulai Paket Starter 3 Bulan🔥</b></a></center>
