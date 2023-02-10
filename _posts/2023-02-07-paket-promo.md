@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Paket Promo Sadis
-description: Paket Promo Sadis - Orderio.id
+title: Paket Promo Super
+description: Paket Promo Super - Orderio.id
 price: "199.000"
 price_promo: "149.000"
 date: 2023-02-07 08:00:00 +07:00
-tags: ["promo"]
+tags: ["super promo"]
 thumbnail: /products/Paket-webstore.jpg
 products: ["/products/Paket-webstore.jpg"]
 published: false
 ---
 
-## Paket Promo Sadis
+## Paket Promo Super
 
-Promo Termurah (19ribu per bulan)
+Promo Super hanya 19ribu per bulan
 
 ---
 
-**Promo Sadis ini khusus buat kamu yang memenuhi kriteria ini:**
+**Promo Super ini khusus buat kamu yang memenuhi kriteria ini:**
 
 * Jualan di social media doang, capek kalo harus ngirimin satu per satu katalog produk
 * 
