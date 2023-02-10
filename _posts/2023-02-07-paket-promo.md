@@ -27,17 +27,15 @@ Promo Super hanya 19ribu per bulan
 
 ## Fitur dan Harga
 
-| **Perbandingan | Promo Super | Starter | Pro<br>(Segera!)** |
-| --- | --- | --- | --- |
-| **Kuota Upload Produk** | 5 produk | 10 produk | Unlimited |
-| **Custom Domain** | - | Ya | Ya |
-| **Form Order** | - | - | Ya |
-| **Instant Payment** | - | - | Ya |
-| **Team Support** | Ya | Ya | Ya |
-| **Pilihan Template** | - | - | Ya |
-| **Harga Bulanan** | Rp 19.000 | Rp 75.000 | Rp 129.000 |
-| **Harga Tahunan** | Rp 190.000 | Rp 750.000 | Rp 1.290.000 |
-| **Paket 3 Bulan*** | - | **Rp 199.000** | **Rp 379.000** |
+| **Perbandingan** | **Promo Super** | **Starter** |
+| --- | --- | --- |
+| **Kuota Upload Produk** | 5 produk | 10 produk |
+| **Custom Domain** | - | Ya |
+| **Team Support** | Ya | Ya |
+| **Pilihan Template** | - | - |
+| **Harga Bulanan** | **Rp 19.000** | Rp 75.000 |
+| **Harga Tahunan** | **Rp 190.000** | Rp 750.000 |
+| **Paket 3 Bulan*** | - | **Rp 199.000** |
 
 ---
 
