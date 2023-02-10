@@ -3,12 +3,11 @@ layout: post
 title: Paket Promo Super
 description: Paket Promo Super - Orderio.id
 price: "199.000"
-price_promo: "149.000"
+price_promo: "19.000"
 date: 2023-02-07 08:00:00 +07:00
 tags: ["super promo"]
-thumbnail: /products/Paket-webstore.jpg
-products: ["/products/Paket-webstore.jpg"]
-published: false
+thumbnail: /products/Promo-Super-Orderio-id.png
+products: ["/products/Promo-Super-Orderio-id.png","/products/Konten-Orderio-id-1.png","/products/Konten-Orderio-id-2.png","/products/Konten-Orderio-id-3.png","/products/Konten-Orderio-id-4.png"]
 ---
 
 ## Paket Promo Super
@@ -17,54 +16,43 @@ Promo Super hanya 19ribu per bulan
 
 ---
 
-**Promo Super ini khusus buat kamu yang memenuhi kriteria ini:**
+**Promo Super ini khusus buat kamu yang:**
 
-* Jualan di social media doang, capek kalo harus ngirimin satu per satu katalog produk
-* 
-* Katalog tidak rapi sehingga calon pembeli kamu kesulitan mencari produk karena baru jualan di social media saja
-* Udah punya webstore tapi bingung dan ribet urusan settingnya
-* Udah punya webstore tapi aksesnya sering lemot, bikin calon pembeli nggak jadi beli
-* Pusing harus menangani order manual lewat chat
-
----
-
-Kalo kamu udah **jenuh** dengan **permasalahan di atas** dan pengen mencari jalan keluar, maka **Orderio.id menyediakan solusinya**.
+* Pengen punya katalog produk tertata rapi
+* Pengen punya toko online yang kenceng aksesnya
+* Pengen dibikinin toko online tanpa perlu setting sendiri
+* Pengen cepet menghasilkan dari toko online sendiri, bukan numpang di social media atau marketplace lagi
 
 ---
 
 ## Fitur dan Harga
 
-| **Perbandingan** | **Starter** | **Pro**<br>**(Segera!)** |
-| --- | --- | --- |
-| **Jasa Upload Produk** | Maks 10 produk | Unlimited |
-| **Custom Domain** | - | Ya |
-| **Subdomain** | Ya* | Ya |
-| **Form Order** | - | Ya |
-| **Instant Payment** | - | Ya |
-| **Team Support** | Ya | Ya |
-| **Pilihan Template** | - | Ya |
-| **Harga Bulanan** | Rp 75.000 | Rp 129.000 |
-| **Harga Tahunan** | Rp 750.000 | Rp 1.290.000 |
-| **Paket 3 Bulan**** | **Rp 199.000** | **Rp 379.000** |
+| **Perbandingan | Promo Super | Starter | Pro<br>(Segera!)** |
+| --- | --- | --- | --- |
+| **Kuota Upload Produk** | 5 produk | 10 produk | Unlimited |
+| **Custom Domain** | - | Ya | Ya |
+| **Form Order** | - | - | Ya |
+| **Instant Payment** | - | - | Ya |
+| **Team Support** | Ya | Ya | Ya |
+| **Pilihan Template** | - | - | Ya |
+| **Harga Bulanan** | Rp 19.000 | Rp 75.000 | Rp 129.000 |
+| **Harga Tahunan** | Rp 190.000 | Rp 750.000 | Rp 1.290.000 |
+| **Paket 3 Bulan*** | - | **Rp 199.000** | **Rp 379.000** |
 
 ---
 
 **Note:**
 
-* *Subdomain Starter: **tokokamu**.orderio.id
-* **Pendaftaran pertama otomatis di Paket 3 Bulan, di bulan ke-4 dst diperbolehkan berlangganan bulanan, perpanjang Paket 3 Bulan atau langsung berlangganan setahun.
-* Bonus: Free +10 upload produk.
-* **Add-on Starter**: Jumlah upload produk: + Rp 10.000/setiap kelipatan 10 produk
-* Dapatkan **diskon Rp 50.000 (Dari Rp  ̶1̶9̶9̶.̶0̶0̶0̶  menjadi Rp. 149.000)** untuk pendaftaran hari ini!
+* *Subdomain Promo Super: **tokokamu**.orderio.id
 
-<center><a href="https://tribelio.page/site/checkout/3bulanorderio" target="_blank"><b>🔥Mulai Paket Starter 3 Bulan🔥</b></a></center>
+<center><a href="https://tribelio.page/site/checkout/promosuperorderio" target="_blank"><b>🔥Mulai Paket Promo Super🔥</b></a></center>
 
 ## Keuntungan memakai Jasa Orderio.id:
 
 * Siap menerima traffic besar, jadi nggak perlu khawatir web kamu down ketika lagi genjot winning-campaign.
 * Kamu nggak perlu ribet setting webstore sendiri, karena tim Orderio yang akan melakukannya untuk kamu.
-* Kecepatan akses webstore di Orderio menjadi prioritas kami
-* Biarkan urusan teknis webstore dihandel Team Support Orderio, kamu cukup berfokus mengembangkan usaha kamu saja
+* Kecepatan akses webstore di Orderio menjadi prioritas kami.
+* Biarkan urusan teknis webstore dihandel Team Support Orderio, kamu cukup berfokus mengembangkan usaha kamu saja.
 
 ## Mau cobain Landing Page ini?
 
@@ -83,4 +71,4 @@ Kalo kamu udah **jenuh** dengan **permasalahan di atas** dan pengen mencari jala
   <li><a href="https://sambalgamiuno.orderio.id/" target="_blank">sambalgamiuno.orderio.id</a></li>
 </ul>
 
-<center><a href="https://tribelio.page/site/checkout/3bulanorderio" target="_blank"><b>🔥Mulai Paket Starter 3 Bulan🔥</b></a></center>
+<center><a href="https://tribelio.page/site/checkout/promosuperorderio" target="_blank"><b>🔥Mulai Paket Promo Super🔥</b></a></center>
