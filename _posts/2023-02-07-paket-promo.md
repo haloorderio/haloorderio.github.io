@@ -5,7 +5,7 @@ description: Paket Promo Super - Orderio.id
 price: "199.000"
 price_promo: "19.000"
 date: 2023-02-07 08:00:00 +07:00
-tags: ["super promo"]
+tags: ["promo super"]
 thumbnail: /products/Promo-Super-Orderio-id.png
 products: ["/products/Promo-Super-Orderio-id.png","/products/buka-toko-online-Orderio-id-1.png","/products/Konten-Orderio-id-1.png","/products/Konten-Orderio-id-2.png","/products/Konten-Orderio-id-3.png","/products/Konten-Orderio-id-4.png"]
 ---
