@@ -32,7 +32,7 @@ Promo Super hanya 19ribu per bulan
 | **Kuota Upload Produk** | 5 produk | 10 produk |
 | **Custom Domain** | - | v |
 | **Team Support** | v | v |
-| **Bonus 1 landingpage** | - | v |
+| **Bonus 1 landing page** | - | v |
 | **Konsultasi Copywriting** | - | v |
 | **Watermark** | v | - |
 | **Harga Bulanan** | **Rp 19.000** | Rp 75.000 |
