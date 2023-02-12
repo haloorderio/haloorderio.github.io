@@ -37,7 +37,7 @@ Promo Super hanya 19ribu per bulan
 | **Watermark** | v | - |
 | **Harga Bulanan** | **Rp 19.000** | Rp 75.000 |
 | **Harga Tahunan** | **Rp 190.000** | Rp 750.000 |
-| **Paket 3 Bulan*** | - | **Rp 199.000** |
+| **Paket 3 Bulan** | - | **Rp 199.000** |
 
 ---
 
