@@ -30,9 +30,11 @@ Promo Super hanya 19ribu per bulan
 | **Perbandingan** | **Promo Super** | **Starter** |
 | --- | --- | --- |
 | **Kuota Upload Produk** | 5 produk | 10 produk |
-| **Custom Domain** | - | Ya |
-| **Team Support** | Ya | Ya |
-| **Pilihan Template** | - | - |
+| **Custom Domain** | - | v |
+| **Team Support** | v | v |
+| **Bonus 1 landingpage** | - | v |
+| **Konsultasi Copywriting** | - | v |
+| **Watermark** | v | - |
 | **Harga Bulanan** | **Rp 19.000** | Rp 75.000 |
 | **Harga Tahunan** | **Rp 190.000** | Rp 750.000 |
 | **Paket 3 Bulan*** | - | **Rp 199.000** |
@@ -45,7 +47,7 @@ Promo Super hanya 19ribu per bulan
 
 <center><a href="https://tribelio.page/site/checkout/promosuperorderio" target="_blank"><b>🔥Mulai Paket Promo Super🔥</b></a></center>
 
-## Keuntungan memakai Jasa Orderio.id:
+## Keuntungan memakai Orderio.id:
 
 * Siap menerima traffic besar, jadi nggak perlu khawatir web kamu down ketika lagi genjot winning-campaign.
 * Kamu nggak perlu ribet setting webstore sendiri, karena tim Orderio yang akan melakukannya untuk kamu.
