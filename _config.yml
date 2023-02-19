@@ -8,6 +8,9 @@ name: Orderio.id | Jasa Pembuatan Toko Online dan Landing Page
 # Short bio or description (displayed in the header)
 description: Support UMKM lokal untuk masuk ke dunia digital
 
+# Lock page
+locked: true
+
 # Keywords for crawling (displayed in the header)
 keywords: jasa membuat landing page, jasa membuat website, jasa membuat toko online, jasa membuat webstore
 
@@ -15,7 +18,7 @@ keywords: jasa membuat landing page, jasa membuat website, jasa membuat toko onl
 avatar: /assets/img/icon-180.png
 
 # Versioning assets with date
-assets: '2023-02-14T07:09:00Z'
+assets: '2023-02-18T07:09:00Z'
 
 # Theme color for browser tab on mobile
 theme_color: '#fff'
