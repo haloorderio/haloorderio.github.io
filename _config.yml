@@ -9,7 +9,7 @@ name: Orderio.id | Jasa Pembuatan Toko Online dan Landing Page
 description: Support UMKM lokal untuk masuk ke dunia digital
 
 # Lock page
-locked: true
+locked: false
 
 # Keywords for crawling (displayed in the header)
 keywords: jasa membuat landing page, jasa membuat website, jasa membuat toko online, jasa membuat webstore
