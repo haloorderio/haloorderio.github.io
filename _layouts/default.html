@@ -47,6 +47,7 @@
 	</script>
 	<script type="text/javascript">
 	$('#addToCartButton').click(function() {
+	fbq('track', 'Lead');
 	fbq('track', 'Purchase', {currency: "IDR", value: 19000});
 	  });
 	</script>
