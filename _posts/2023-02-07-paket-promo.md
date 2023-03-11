@@ -27,16 +27,17 @@ Promo Super hanya 19ribu per bulan
 
 ## Fitur dan Harga
 
-| **Perbandingan** | **Promo Super** | **Starter** |
+| **Perbandingan** | **Promo Super*** | **Starter** |
 | --- | --- | --- |
-| **Kuota Upload Produk** | 5 produk | 10 produk |
+| **Kuota Upload Produk** | 5 produk | 50 produk |
 | **Custom Domain** | - | v |
 | **Team Support** | v | v |
 | **Bonus 1 landing page** | - | v |
+| **Bonus 1 link page** | - | v |
 | **Konsultasi Copywriting** | - | v |
-| **Watermark** | v | - |
-| **Harga Bulanan** | **Rp 29.000** | Rp 75.000 |
-| **Harga Tahunan** | **Rp 190.000** | Rp 750.000 |
+| **Watermark Orderio.ID** | v | - |
+| **Harga Bulanan** | Rp 49.000 | Rp 75.000 |
+| **Harga Tahunan** | **Rp 190.000**<br>(Promo) | Rp 750.000 |
 
 ---
 
@@ -53,12 +54,17 @@ Promo Super hanya 19ribu per bulan
 * Kecepatan akses webstore di Orderio menjadi prioritas kami.
 * Biarkan urusan teknis webstore dihandel Team Support Orderio, kamu cukup berfokus mengembangkan usaha kamu saja.
 
+## Yuk cobain Link Page ini:
+
+<ul>
+  <li><a href="https://Orderio.id/edukasimuslimah" target="_blank">Link Page @Edukasi.Muslimah</a></li>
+</ul>
+
 ## Mau cobain Landing Page ini?
 
 <ul>
-  <li><a href="https://samplelandingpage1.orderio.id/" target="_blank">Sample Landing Page 1</a></li>
-  <li><a href="https://samplelandingpage2.orderio.id/" target="_blank">Sample Landing Page 2</a></li>
-  <li><a href="https://samplelandingpage3.orderio.id/" target="_blank">Sample Landing Page 3</a></li>
+  <li><a href="https://Orderio.id/kelasinstagram" target="_blank">Webinar Instagram Organik</a></li>
+  <li><a href="https://Orderio.id/kelastiktok" target="_blank">Kelas Tiktok Marketing</a></li>
 </ul>
 
 ## Mereka yang sudah menggunakan Orderio.id:
@@ -66,7 +72,7 @@ Promo Super hanya 19ribu per bulan
 <ul>
   <li><a href="https://mukenalarizka.com/" target="_blank">mukenalarizka.com</a></li>
   <li><a href="https://ilovekayu.com/" target="_blank">ilovekayu.com</a></li>
-  <li><a href="https://hakim.orderio.id/" target="_blank">hakim.orderio.id</a></li>
+  <li><a href="https://boluria.orderio.id/" target="_blank">boluria.orderio.id</a></li>
   <li><a href="https://sambalgamiuno.orderio.id/" target="_blank">sambalgamiuno.orderio.id</a></li>
 </ul>
 
