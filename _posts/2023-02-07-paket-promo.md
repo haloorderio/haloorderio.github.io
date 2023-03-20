@@ -31,6 +31,7 @@ Promo Super hanya 19ribu per bulan
 | --- | --- | --- |
 | **Kuota Upload Produk** | 5 produk | 50 produk |
 | **Custom Domain** | - | v |
+| **SSL/TLS** | v | v |
 | **Team Support** | v | v |
 | **Bonus 1 landing page** | - | v |
 | **Bonus 1 link page** | - | v |
