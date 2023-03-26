@@ -76,6 +76,7 @@ Promo Super hanya 19ribu per bulan
 <ul>
   <li><a href="https://mukenalarizka.com/" target="_blank">mukenalarizka.com</a></li>
   <li><a href="https://ilovekayu.com/" target="_blank">ilovekayu.com</a></li>
+  <li><a href="https://nolosscollection.com/" target="_blank">nolosscollection.com</a></li>
   <li><a href="https://boluria.orderio.id/" target="_blank">boluria.orderio.id</a></li>
   <li><a href="https://sambalgamiuno.orderio.id/" target="_blank">sambalgamiuno.orderio.id</a></li>
 </ul>
