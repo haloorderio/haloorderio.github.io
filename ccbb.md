@@ -8,10 +8,6 @@ layout: none
 <meta name="title" content="Cara Jitu Jadi Content Creator" />
 <meta name="description" content="Rahasia tentang cara menjadi Content Creator ada di sini" />
 <meta property="og:image" content="https://orderio.id/images/buku-ccbb-dan-list-building-bb.jpg" />
-    
-<meta name="twitter:card" content="Teknik Rahasia Dapet Cuan di Internet" />
-<meta name="twitter:title" content="Cara Jitu Jadi Content Creator" />
-<meta name="twitter:description" content="Rahasia tentang cara menjadi Content Creator ada di sini!" />
 <meta name="twitter:image" content="https://orderio.id/images/buku-ccbb-dan-list-building-bb.jpg" />
 <script>
     setTimeout(function () {
@@ -20,6 +16,5 @@ layout: none
 </script>
 </head>
 <body>
-    <img src="https://orderio.id/images/buku-ccbb-dan-list-building-bb.jpg" alt="Buku CCBB">
 </body>
 </html>
