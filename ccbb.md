@@ -2,7 +2,6 @@
 layout: none
 ---
 
-<!DOCTYPE html>
 <html lang="id-ID">
 <head>
 <title>Cara Jitu Jadi Content Creator</title>
