@@ -4,11 +4,8 @@ title: CCBB
 permalink: /ccbb/
 ---
 
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url='https://tribelio.page/ccbb-aff-free-15'" target="_blank" />
-  </head>
-  <body>
-    <p>Go!</p>
-  </body>
-</html>
+<script>
+    setTimeout(function () {
+      window.location.href = "https://tribelio.page/ccbb-aff-free-15";
+    }, 0); // Ubah angka 5000 (ms) menjadi durasi pengalihan yang diinginkan dalam milidetik (misalnya, 3000 untuk 3 detik)
+</script>
