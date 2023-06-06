@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CCBB
-permalink: /aff/
+permalink: /ccbb/
 ---
 
 <script>
