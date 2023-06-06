@@ -7,8 +7,8 @@ layout: none
 <title>Cara Jitu Jadi Content Creator</title>
 <meta name="title" content="Cara Jitu Jadi Content Creator" />
 <meta name="description" content="Rahasia tentang cara menjadi Content Creator ada di sini" />
-<meta property="og:image" content="https://github.com/haloorderio/haloorderio.github.io/blob/main/images/buku-ccbb-dan-list-building-bb.jpg?raw=true" />
-<meta name="twitter:image" content="https://github.com/haloorderio/haloorderio.github.io/blob/main/images/buku-ccbb-dan-list-building-bb.jpg?raw=true" />
+<meta property="og:image" content="https://orderio.id/images/buku-ccbb-dan-list-building-bb.jpg" />
+<meta name="twitter:image" content="https://orderio.id/images/buku-ccbb-dan-list-building-bb.jpg" />
 <script>
     setTimeout(function () {
       window.location.href = "https://tribelio.page/ccbb-aff-free-15";
