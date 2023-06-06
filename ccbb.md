@@ -2,6 +2,7 @@
 layout: none
 title: CCBB
 permalink: /ccbb/
+thumbnail: https://github.com/haloorderio/haloorderio.github.io/blob/main/images/buku-ccbb-dan-list-building-bb.jpg?raw=true
 ---
 
 <script>
