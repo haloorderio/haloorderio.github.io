@@ -4,6 +4,7 @@ layout: none
 
 <html lang="id-ID">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Daftar Kelas Fahmy Arafat</title>
 <meta name="title" content="Daftar Kelas Fahmy Arafat" />
 <meta name="description" content="Dapatkan informasi eksklusif dan penawaran menarik untuk Kelas Online Terbaru Fahmy Arafat Daulay" />
