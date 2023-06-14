@@ -2,6 +2,17 @@
 layout: none
 ---
 
+<html lang="id-ID">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korset Premium - OrderioID</title>
+<meta name="title" content="Korset Premium - OrderioID" />
+<meta name="description" content="Form Pembelian Korset Premium - OrderioID" />
+<meta property="og:image" content="https://tribelio-s3-production-temp.s3.ap-southeast-1.amazonaws.com/imgupload/20230614/0/5/4/0/4/2023061405404148db71587df6c7c442e5b76cc723169a." />
+<meta name="twitter:image" content="https://tribelio-s3-production-temp.s3.ap-southeast-1.amazonaws.com/imgupload/20230614/0/5/4/0/4/2023061405404148db71587df6c7c442e5b76cc723169a." />
+</head>
+<body>
+
 <!-- OrderOnline Embed Code - v6.3.5 -->
 <div class="ooef">
 	<form class="orderonline-embed-form" data-username="orderio" data-product-slug="korset-premium" id="oo-embed-form-korset-premium-7880">
@@ -58,3 +69,6 @@ layout: none
 	}
 </script>
 <!-- End OrderOnline Embed Code -->
+	
+</body>
+</html>
