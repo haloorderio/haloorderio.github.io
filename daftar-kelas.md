@@ -5,11 +5,11 @@ layout: none
 <html lang="id-ID">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daftar Kelas Fahmy Arafat</title>
-<meta name="title" content="Daftar Kelas Fahmy Arafat" />
+<title>Daftar Kelas Online Fahmy Arafat</title>
+<meta name="title" content="Daftar Kelas Online Fahmy Arafat" />
 <meta name="description" content="Dapatkan informasi eksklusif dan penawaran menarik untuk Kelas Online Terbaru Fahmy Arafat Daulay" />
-<meta property="og:image" content="https://orderio.id/images/buku-ccbb-dan-list-building-bb.jpg" />
-<meta name="twitter:image" content="https://orderio.id/images/buku-ccbb-dan-list-building-bb.jpg" />
+<meta property="og:image" content="https://orderio.id/images/Kelas%20Online.jpg" />
+<meta name="twitter:image" content="https://orderio.id/images/Kelas%20Online.jpg" />
 <!-- MailerLite Universal -->
 <script>
     (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
