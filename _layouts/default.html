@@ -178,5 +178,40 @@
 	{% include analytics.html %}
 </slot>
 
+<div class="floating-cta">
+  <a href="https://api.whatsapp.com/send?phone=628812678548&text=Halo%20Kak%20Hakim,%0ASaya%20mau%20konsultasi%20bikin%20mini%20toko%20online" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo">
+    Jadwalkan Konsultasi
+  </a>
+</div>
+
+<style>
+    .floating-cta {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+.floating-cta a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #25D366;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 50px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.floating-cta a img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+</style>
+	
 </body>
 </html>
