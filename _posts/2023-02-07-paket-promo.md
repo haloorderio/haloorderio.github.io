@@ -74,9 +74,9 @@ Promo Super hanya 37ribuan per bulan
 ## Mereka yang sudah menggunakan Orderio.id:
 
 <ul>
-  <li><a href="https://mukenalarizka.orderio.my.id/" target="_blank">mukenalarizka.orderio.id</a></li>
+  <li><a href="https://mukenalarizka.orderio.my.id/" target="_blank">mukenalarizka.orderio.my.id</a></li>
   <!-- <li><a href="https://ilovekayu.com/" target="_blank">ilovekayu.com</a></li> -->
   <li><a href="https://nolosscollection.com/" target="_blank">nolosscollection.com</a></li>
-  <li><a href="https://boluria.orderio.my.id/" target="_blank">boluria.orderio.id</a></li>
-  <li><a href="https://sambalgamiuno.orderio.my.id/" target="_blank">sambalgamiuno.orderio.id</a></li>
+  <li><a href="https://boluria.orderio.my.id/" target="_blank">boluria.orderio.my.id</a></li>
+  <li><a href="https://sambalgamiuno.orderio.my.id/" target="_blank">sambalgamiuno.orderio.my.id</a></li>
 </ul>
