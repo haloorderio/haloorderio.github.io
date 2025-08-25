@@ -45,7 +45,7 @@ Promo Super hanya 37ribuan per bulan
 **Note:**
 
 * *_Subdomain Promo Super: **tokokamu**.orderio.my.id_
-* **_Tambahan Custom Domain .com: 190k (Perpanjangan 170k di tahun berikutnya)_
+* **_Tambahan Custom Domain .com: 190k (Perpanjangan di tahun berikutnya di kisaran 210k - 250k)_
 
 <center><a href="https://tribelio.page/site/checkout/promosuperorderio" target="_blank" rel="noopener" class="bg-emerald-500 hover:bg-emerald-600 text-white block py-3 px-4 rounded-lg w-full text-center mt-4" style="color:white;text-decoration:none">
 				🔥Daftar Sekarang🔥
